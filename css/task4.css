@@ -1,0 +1,93 @@
+html {
+	font-size: 62.5%;
+}
+header {
+	top: 0;
+	right: 0;
+	left: 0;
+}
+header {
+	position: fixed;
+	padding: 0rem 1.5rem;
+	background: #5ac0ce;
+	line-height: 4.4rem;
+}
+header a {
+	color: #fff;
+	font-size: 1.6rem;
+}
+header h2 {
+	color: #fff;
+	font-size: 1.8rem;
+	text-align: center;
+}
+main {
+	position: absolute;
+	top: 4.2rem;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: #eff0f4;
+}
+.register {
+	float: left;
+}
+.enter {
+	float: right;
+}
+.import {
+	position: relative;
+	margin: 0.9rem 0 0 0;
+	background-color: #fff;
+}
+.import input {
+	width: 100%;
+	padding-left: 5rem;
+	font-size: 1.6rem;
+}
+.iphone {
+	margin: 1.5rem 2.1rem;
+	background: url("../images/task4/iphone.png") no-repeat;
+	background-size: 1.4rem 2.1rem; 
+}
+.import:before {
+	content: '';
+	position: absolute;
+	top: 1.2rem;
+	left: 5rem;
+	width: 0.2rem;
+	height: 2.5rem;
+	background: #eaedee;
+}
+.locked {
+	background: url("../images/task4/locked.png") no-repeat;
+	background-size: 1.4rem 2.1rem;
+	margin: 1.4rem 2.1rem;
+}
+.footer{
+	width: 100%;
+	margin:3.5rem 0 0;
+	padding:1.8rem 0;
+	border: none;
+	background-color: #5ac0ce;
+	font-size: 1.8rem;
+	color: #fff;
+} 
+.forgot-password a {
+	float: right;
+	color: #5fc0cd;
+	font-size: 1.6rem;
+	padding: 1rem 1.5rem;
+}
+::-webkit-input-placeholder { /* WebKit browsers */ 
+color: #eaedee; 
+} 
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */ 
+color: #eaedee; 
+} 
+::-moz-placeholder { /* Mozilla Firefox 19+ */ 
+color: #eaedee; 
+} 
+:-ms-input-placeholder { /* Internet Explorer 10+ */ 
+color: #eaedee; 
+} 
