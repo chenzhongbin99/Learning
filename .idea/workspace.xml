@@ -1,32 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9098bfdf-9126-4d44-b77c-8f11d05b10e6" name="默认的" comment="默认的">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/task1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/task3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/task4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/task5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/task1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/task2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/task3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/task4.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/task5.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/task3/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/task3/l.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/task3/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/task3/r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/task4/iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/task4/locked.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/task5/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/task5/backdrop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/task5/mark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/task5/star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/task5/user.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="9098bfdf-9126-4d44-b77c-8f11d05b10e6" name="默认的" comment="learning">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task2.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learning.iws" />
@@ -102,34 +79,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cn" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -238,18 +187,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490147033300</updated>
-      <workItem from="1491281069822" duration="1342000" />
+      <workItem from="1491281069822" duration="1717000" />
     </task>
+    <task id="LOCAL-00001" summary="learning">
+      <created>1491282436829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1491282436829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1342000" />
+    <option name="totallyTimeSpent" value="1717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="445" y="26" width="1193" height="1030" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28425533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -275,6 +233,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
