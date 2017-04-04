@@ -1,6 +1,11 @@
 /*--common--*/
 html {
 	font-size: 62.5%;
+	font-family: "Microsoft YaHei";
+}
+body {
+	max-width: 640px;
+	margin: 0 auto;
 }
 /*--header--*/
 header  {
@@ -13,7 +18,7 @@ button {
 }
 .title {
 	width:50%;
-	margin: 0.5rem 25%;
+	margin: 0.8rem 25%;
 	border-radius: 0.5rem;
 	background: #55a8b3;
 	text-align: center;
@@ -23,7 +28,7 @@ button {
 .header-left  {
 	float: left;
 	width: 50%;
-	padding: 0.5rem 0;
+	padding: 0.8rem 0;
 	border-radius: 0.5rem;
 	background: #55a8b3;
 	color: #fff;
@@ -33,7 +38,7 @@ button {
 .header-right  {
 	float: left;
 	width: 50%;
-	padding: 0.5rem 0;
+	padding: 0.8rem 0;
 	border-radius: 0.5rem;
 	background: #fff;
 	color: #5fc0cd;
@@ -50,19 +55,12 @@ button {
 }
 /*--main--*/
 main  {
-	position: absolute;
-	top: 5rem;
-	right: 0;
-	bottom: 5rem;
-	left: 0;
 	background-color: #fff;
-	overflow-y: auto;
-	overflow-x: hidden;
+	overflow: hidden;
 }
 select  {
-	width: 90%;
-	padding-left: 1.2rem;
-	margin: 1.5rem;
+	width: 100%;
+	margin: 1.5rem 0 1.5rem 1.2rem;
 	border: none;
 	color: #999;
 	font-size: 1.4rem;
@@ -79,10 +77,9 @@ li i {
 	height: 14px;
 	background: url("../images/spite.png");
 }
-.container {
-	padding: 0;
-}
-.row {
+.list {
+	display: flex;
+	margin: 0 1.5rem;
 	border-bottom: 1px solid #e1e5e7;
 }
 .tag1, .tag2 {
@@ -90,7 +87,7 @@ li i {
 }
 .pull-left {
 	width: 50%;
-	text-align: ellipsis;
+	text-overflow: ellipsis;
 	overflow: hidden;
 }
 .pull-right {
@@ -136,8 +133,13 @@ footer  {
 	position: fixed;
 	bottom: 0;
 	width: 100%;
+	max-width: 640px;
 	background: #f8fafb;
 	text-align: center;
+}
+.container {
+	width: 100%;
+	max-width: 640px;
 }
 .page, .pan, .mine {
 	cursor: pointer;
@@ -165,4 +167,19 @@ footer  {
 	margin-top: 0.7rem;
 	color: #a6a7a7;
 	font-size: 1rem;
+}
+@media screen and (min-width: 420px) {
+	html {
+		font-size: 66%;
+	}
+}
+@media screen and (min-width: 520px) {
+	html {
+		font-size: 80%;
+	}
+}
+@media screen and (min-width: 640px) {
+	html {
+		font-size: 99%;
+	}
 }
