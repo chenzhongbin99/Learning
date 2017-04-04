@@ -1,0 +1,146 @@
+html  {
+	font-size: 62.5%;
+}
+header  {
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+	padding: 0rem 1.5rem;
+	background: #5fc0cd;
+	line-height: 4.4rem;
+} 
+header h2  {
+	color: #fff;
+	font-size: 1.8rem;
+	text-align: center;
+}
+main  {
+	position: absolute;
+	top: 4.4rem;
+	right: 0;
+	bottom: 6.4rem;
+	left: 0;
+	background-color: #fff;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+footer  {
+	position: fixed;
+	bottom: 2rem;
+	width: 100%;
+	background: #fff;
+	text-align: center;
+}
+a, p  {
+	letter-spacing: 0.15rem;	
+}
+.abstract  {
+	margin-bottom: 5rem;
+}
+.back  img  {
+	float: left;
+	width: 1.1rem;
+	margin: 1.2rem 0 0;
+}
+.person  {
+	position: relative;
+	width: 100%;
+	height: 16.5rem;
+	background: url("../images/backdrop.png") no-repeat center;
+	background-size: cover;
+}
+.user img  {
+	float: left;
+	width: 8.5rem;
+	margin: 4rem 2.2rem 0 1.5rem;
+}
+.user-messages  {
+	float: left;
+	margin: 5.8rem 0 0;
+	color: #fff;
+}
+.name  {
+	color: #fff;
+	font-size: 1.8rem;
+}
+.age  {
+	color: #fff;
+	font-size: 1.4rem;
+}
+.address  {
+	margin: 1.4rem 0 0;
+	padding-left: 1.5rem;
+	background: url("../images/mark.png") no-repeat;
+	background-size: 1rem;
+	font-size: 1.2rem;
+}
+.title  {
+	padding: 1.7rem 1.5rem;
+	border-bottom: 1px solid #e1e5e7;
+	line-height: 1.5rem;
+	font-size: 1.4rem;
+	letter-spacing: 0.15rem;
+}
+.title  big  {
+	padding-left: 1.5rem;
+	border-left: 3px solid #5fc0cd;
+}
+.label  {
+	position: relative;
+	margin: 0 1.7rem;
+	padding: 1.7rem 1.5rem;
+	border-bottom: 1px solid #e1e5e7;
+	line-height: 1.5rem;
+	font-size: 1.4rem;
+	letter-spacing: 0.15rem;
+}
+.tag  {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	float: left;
+	padding-right: 1.4rem;
+	border-right: 1px solid #e1e5e7;
+	color: #999999;
+}
+.details  {
+	width: calc( 100% - 8rem );
+	margin-left: 7.4rem; 
+	padding-left: 1.4rem;
+}
+.details span  {
+	color: #e26163;
+}
+.star  {
+	display: inline-block;
+	padding: 0 0.8rem 0 1.7rem;
+	background: url("../images/star.png") no-repeat;
+	background-size: 1.4rem;
+}
+.star span  {
+	padding-right: 1rem;
+	border-right: 1px solid #e1e5e7;
+}
+.footer-left, .footer-right  {
+	float: left;
+	width: 50%;
+}
+.messages  {
+	width: 95%;
+	height: 4.4rem;
+	border: 2px solid #5fc0cd;
+	border-radius: 5px;
+	background-color: #fff;
+	font-size: 1.7rem;
+	color: #5fc0cd;
+}
+.phone  {
+	width: 95%;
+	height: 4.4rem;
+	border: none;
+	border-radius: 5px;
+	background-color: #5fc0cd;
+	font-size: 1.7rem;
+	color: #fff;
+}

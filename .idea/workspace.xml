@@ -1,9 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9098bfdf-9126-4d44-b77c-8f11d05b10e6" name="默认的" comment="learning">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task2.css" />
+    <list default="true" id="9098bfdf-9126-4d44-b77c-8f11d05b10e6" name="默认的" comment="homepage">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task3/images/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task3/images/l.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task3/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task3/images/r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task4/images/iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task4/images/locked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task5/images/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task5/images/backdrop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task5/images/mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task5/images/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task5/images/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/images/date.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/images/location.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/images/mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/images/mine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/images/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/images/page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/images/pan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/images/spite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/images/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/images/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/images/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/images/message.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/images/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/images/page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/images/remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/images/sprites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/images/text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/music/freedom.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/images/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/images/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/images/message.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/images/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/images/page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/images/remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/images/sprites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/images/text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/music/freedom.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task1/css/task1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task3/css/task3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task3/task3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task4/css/task4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task4/task4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task5/css/task5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task5/task5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/css/task6.1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/css/task6.2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/task6.1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task6/task6.2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/css/task7-1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/css/task7-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/css/task7-3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/task7-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/task7-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task7/task7-3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/css/task7-1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/css/task7-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/css/task7-3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/task7-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/task7-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task(css)/task8/task7-3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learning.iws" />
@@ -48,8 +112,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="445" />
-    <option name="y" value="26" />
+    <option name="x" value="444" />
+    <option name="y" value="7" />
     <option name="width" value="1193" />
     <option name="height" value="1030" />
   </component>
@@ -187,7 +251,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490147033300</updated>
-      <workItem from="1491281069822" duration="1717000" />
+      <workItem from="1491281069822" duration="2138000" />
     </task>
     <task id="LOCAL-00001" summary="learning">
       <created>1491282436829</created>
@@ -196,14 +260,28 @@
       <option name="project" value="LOCAL" />
       <updated>1491282436829</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="learning">
+      <created>1491282802103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1491282802103</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homepage">
+      <created>1491283092137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1491283092137</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1717000" />
+    <option name="totallyTimeSpent" value="2138000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="445" y="26" width="1193" height="1030" extended-state="0" />
+    <frame x="444" y="7" width="1193" height="1030" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28425533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -236,7 +314,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="learning" />
+    <MESSAGE value="homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="homepage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

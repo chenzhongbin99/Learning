@@ -1,0 +1,168 @@
+/*--common--*/
+html {
+	font-size: 62.5%;
+}
+/*--header--*/
+header  {
+	background: #5fc0cd;
+	overflow: hidden;
+}
+button {
+	border: none;
+	background: #f8fafb;
+}
+.title {
+	width:50%;
+	margin: 0.5rem 25%;
+	border-radius: 0.5rem;
+	background: #55a8b3;
+	text-align: center;
+	font-size: 2rem;
+	overflow: hidden;
+}
+.header-left  {
+	float: left;
+	width: 50%;
+	padding: 0.5rem 0;
+	border-radius: 0.5rem;
+	background: #55a8b3;
+	color: #fff;
+	font-size: 1.7rem;
+	cursor: pointer;
+}
+.header-right  {
+	float: left;
+	width: 50%;
+	padding: 0.5rem 0;
+	border-radius: 0.5rem;
+	background: #fff;
+	color: #5fc0cd;
+	font-size: 1.7rem;
+	cursor: pointer;
+}
+.place  {
+	position: absolute;
+	top: 1rem;
+	right: 1.5rem;
+}
+.place img  {
+	width: 2.2rem;
+}
+/*--main--*/
+main  {
+	position: absolute;
+	top: 5rem;
+	right: 0;
+	bottom: 5rem;
+	left: 0;
+	background-color: #fff;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+select  {
+	width: 90%;
+	padding-left: 1.2rem;
+	margin: 1.5rem;
+	border: none;
+	color: #999;
+	font-size: 1.4rem;
+	outline: none;
+}
+li  {
+	padding-left: 1.5rem;
+	font-size: 1.4rem;
+}
+li i {
+	display: inline;
+	float: left;
+	width: 12px;
+	height: 14px;
+	background: url("../images/spite.png");
+}
+.container {
+	padding: 0;
+}
+.row {
+	border-bottom: 1px solid #e1e5e7;
+}
+.tag1, .tag2 {
+	border-right: 1px solid #e1e5e7;
+}
+.pull-left {
+	width: 50%;
+	text-align: ellipsis;
+	overflow: hidden;
+}
+.pull-right {
+	padding-right: 0.5rem;
+	font-size: 1.5rem;
+	color: #e63b0e;
+}
+.time-slot  {
+	float: left;
+}
+.expenses  {
+	float: right;
+	padding-right: 3.5rem;
+}
+.date  {
+	padding-top: 1.5rem;
+	color: #999;
+}
+.time  {
+	position: relative;
+	right: 1.5rem;
+	padding: 1.2rem 1.5rem;
+	background: url("../images/next.png") right center no-repeat;
+	background-size: 1.2rem;
+	overflow: hidden;
+	cursor: pointer;
+}
+.address  {
+	padding-bottom: 1.5rem;
+	border-bottom: 1px solid #e1e5e7;
+	color: #999;
+}
+.date i  {
+	margin: 0.2rem 0.5rem 1rem 0rem;
+	background-position: 0 0;
+}
+.address i  {
+	margin: 0.2rem 0.5rem 1rem 0rem;
+	background-position: 0 -14px;
+}
+/*--footer--*/
+footer  {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background: #f8fafb;
+	text-align: center;
+}
+.page, .pan, .mine {
+	cursor: pointer;
+}
+.page {
+	padding-top: 0.5rem;
+	margin-left: 30%;
+}
+.mine {
+	padding-top: 0.5rem;
+	margin-right: 30%;
+}
+.page img, .mine img {
+	width: 2.3rem;
+}
+.pan img {
+	width: 5rem;
+}
+.page p {
+	margin-top: 0.8rem;
+	color: #5fc0cd;
+	font-size: 1rem;
+}
+.mine p {
+	margin-top: 0.7rem;
+	color: #a6a7a7;
+	font-size: 1rem;
+}
