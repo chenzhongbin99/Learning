@@ -60,7 +60,7 @@ main  {
 }
 select  {
 	width: 100%;
-	margin: 1.5rem 0 1.5rem 1.2rem;
+	padding: 1.5rem 0 1.5rem 1.2rem;
 	border: none;
 	color: #999;
 	font-size: 1.4rem;
@@ -77,13 +77,18 @@ li i {
 	height: 14px;
 	background: url("../images/spite.png");
 }
+.line {
+	padding: 1.5rem 0;
+	color: #e1e5e7;
+	font-size: 1.4rem;
+}
+.content {
+	padding-bottom: 6rem;
+}
 .list {
 	display: flex;
 	margin: 0 1.5rem;
 	border-bottom: 1px solid #e1e5e7;
-}
-.tag1, .tag2 {
-	border-right: 1px solid #e1e5e7;
 }
 .pull-left {
 	width: 50%;

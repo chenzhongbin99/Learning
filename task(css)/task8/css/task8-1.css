@@ -1,1 +1,34 @@
 /*common*/
+html {
+    font-size: 625%;
+}
+/*header*/
+p {
+    color: #29b078;
+    font-size: 0.14rem;
+}
+.top {
+    height: 0.39rem;
+    background: #fff;
+    line-height: 0.39rem;
+}
+.directory {
+    width: 100%;
+    height: 1rem;
+    background: #29b078;
+    line-height: 1rem;
+}
+.cat {
+    padding: 0.36rem 0.32rem;
+    border-bottom: 4px solid #29b078;
+    color: #fff;
+    font-size: 0.16rem;
+}
+.cat:hover {
+    border-bottom: 4px solid #fff;
+    color: #fff;
+    text-decoration: none;
+}
+.navbar {
+    margin: 0;!important;
+}
