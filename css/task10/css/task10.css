@@ -1,0 +1,95 @@
+/*common*/
+html {
+    font-size: 625%;
+}
+body {
+    letter-spacing: 0.02rem;
+}
+main {
+    overflow: hidden;
+}
+h2 {
+    padding: 0.7rem 0;
+    color: #333;
+    font-size: 0.18rem;
+    font-weight: bold;
+    text-align: center;
+}
+B {
+    padding: 0.12rem 0.15rem;
+    font-size: 0.16rem;
+}
+/*header*/
+header {
+    height: 0.4rem;
+    background: #1d7ad9;
+}
+.top {
+    background: #1d7ad9;
+    color: #fff;
+}
+.phone p {
+    padding: 0.12rem 0;
+    font-size: 0.14rem;
+    letter-spacing: 0.01rem;
+}
+.top B:hover {
+    background: #fff;
+    color: #333;
+}
+/*nav*/
+.nav {
+    width: 100%;
+    background: #f9f9f9;
+}
+.navbar, .navbar-collapse {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+.container-fluid {
+    padding: 0;
+    background: #f9f9f9;
+}
+.category {
+    background: #fff;
+    color: #333 !important;
+    text-align: center;
+    border-radius: 3px;
+}
+.category:hover {
+    background: #1d7ad9;
+    color: #fff !important;
+}
+@media screen and (min-width: 768px) {
+    .nav-ul {
+        float: right !important;
+    }
+}
+/*footer*/
+.tab1 {
+    padding: 0.58rem 0;
+    background: #f9f9f9;
+    color: #fff;
+    font-size: 0.16rem;
+}
+.tab2 {
+    height: 0.3rem;
+    background: #1d7ad9;
+    color: #fff;
+    font-size: 0.14rem;
+    line-height: 0.3rem;
+    text-align: center;
+}
+.we {
+    margin-top: 0.65rem;
+}
+.tab1 p {
+    padding: 0.06rem 0;
+    margin-bottom: 0.15rem;
+    color: #999;
+    cursor: pointer;
+}
+.tab1 p:hover {
+   color: #1d7ad9;
+}

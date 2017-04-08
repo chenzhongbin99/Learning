@@ -2,13 +2,184 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9098bfdf-9126-4d44-b77c-8f11d05b10e6" name="默认的" comment="task">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/css/task8-1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/task8-1.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task10/images/box.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task10/images/message.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task10/images/size.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task10/images/texture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task2/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task3/images/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task3/images/l.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task3/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task3/images/r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task4/images/iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task4/images/locked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task5/images/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task5/images/backdrop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task5/images/mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task5/images/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task5/images/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/images/date.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/images/location.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/images/mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/images/mine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/images/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/images/page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/images/pan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/images/spite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/images/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/images/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/images/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/images/message.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/images/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/images/page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/images/remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/images/sprites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/images/text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/music/freedom.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/alibaba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/archive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/banner-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/banner-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/banner-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/banner-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/cto1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/cto2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/cto3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/cto4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/hx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/jnshu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/kingsoft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/message.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/person.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/persons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/qiniu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/qq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/rl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/shape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/tudou.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/wechat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/images/weibo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task1/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task1/css/task1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task10/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task10/css/task10.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task10/task10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task2/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task2/css/task2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task3/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task3/css/task3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task3/task3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task4/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task4/css/task4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task4/task4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task5/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task5/css/task5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task5/task5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/css/task6.1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/css/task6.2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/task6.1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task6/task6.2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/css/task7-1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/css/task7-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/css/task7-3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/task7-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/task7-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task7/task7-3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/css/task8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task8/task8.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/task2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task1/css/task1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task1/task1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task3/css/task3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task3/images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task3/images/l.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task3/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task3/images/r.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task3/task3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task4/css/task4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task4/images/iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task4/images/locked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task4/task4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task5/css/task5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task5/images/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task5/images/backdrop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task5/images/mark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task5/images/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task5/images/user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task5/task5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/css/task6.1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/css/task6.2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/images/date.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/images/location.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/images/mark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/images/mine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/images/page.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/images/pan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/images/spite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/images/triangle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/task6.1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task6/task6.2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/css/task7-1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/css/task7-2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/css/task7-3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/images/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/images/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/images/message.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/images/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/images/page.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/images/remove.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/images/sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/images/text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/music/freedom.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/task7-1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/task7-2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task7/task7-3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/css/task8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/alibaba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/banner-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/banner-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/banner-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/banner-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/cto1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/cto2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/cto3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/cto4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/hx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/jnshu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/kingsoft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/message.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/person.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/persons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/qiniu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/qq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/rl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/rocket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/shape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/tudou.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/wechat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/images/weibo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task(css)/task8/task8.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task(css)/task7/css/task7-1.css" afterPath="$PROJECT_DIR$/task(css)/task7/css/task7-1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task(css)/task7/task7-1.html" afterPath="$PROJECT_DIR$/task(css)/task7/task7-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task(css)/task7/task7-3.html" afterPath="$PROJECT_DIR$/task(css)/task7/task7-3.html" />
     </list>
     <ignored path="Learning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,26 +195,22 @@
     <favorites_list name="Learning" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="task8.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task(css)/task8/task8.html">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="733">
-              <caret line="1160" column="38" lean-forward="false" selection-start-line="1160" selection-start-column="38" selection-end-line="1160" selection-end-column="38" />
-              <folding>
-                <element signature="n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="560">
+              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="task10.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/task10/task10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            <state relative-caret-position="203">
+              <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -94,6 +261,8 @@
         <option value="$PROJECT_DIR$/task(css)/task8/css/task8-1.css" />
         <option value="$PROJECT_DIR$/task(css)/task8/task8-1.html" />
         <option value="$PROJECT_DIR$/task(css)/task8/task8.html" />
+        <option value="$PROJECT_DIR$/task(css)/task10/css/task10.css" />
+        <option value="$PROJECT_DIR$/task(css)/task10/task10.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -136,20 +305,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task(css)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -265,7 +420,8 @@
       <workItem from="1491355087238" duration="34845000" />
       <workItem from="1491441942087" duration="49909000" />
       <workItem from="1491530164838" duration="44405000" />
-      <workItem from="1491614307856" duration="15603000" />
+      <workItem from="1491614307856" duration="22977000" />
+      <workItem from="1491653505011" duration="809000" />
     </task>
     <task id="LOCAL-00001" summary="learning">
       <created>1491282436829</created>
@@ -323,17 +479,30 @@
       <option name="project" value="LOCAL" />
       <updated>1491358632741</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="task">
+      <created>1491634083481</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1491634083481</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task">
+      <created>1491634170558</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1491634170558</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175717000" />
+    <option name="totallyTimeSpent" value="183900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="2" width="1839" height="1048" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17517847" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17517847" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -373,47 +542,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/task(css)/task8/css/task8-1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9483">
-          <caret line="327" column="1" lean-forward="true" selection-start-line="327" selection-start-column="1" selection-end-line="327" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task(css)/task8/task8-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task(css)/task8/task8-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task(css)/task8/task8-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1736">
-          <caret line="62" column="54" lean-forward="false" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/task(css)/task8/task8-1.html" />
     <entry file="file://$PROJECT_DIR$/task(css)/task8/8.html" />
-    <entry file="file://$PROJECT_DIR$/task(css)/task8/css/task8-1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="868">
-          <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/task(css)/task8/css/task8-1.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -616,18 +747,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/style8.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/style8.css" />
     <entry file="file://$PROJECT_DIR$/task(css)/task8/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -635,42 +759,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="5" column="124" lean-forward="false" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="124" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task(css)/task8/css/task8-1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="445" column="37" lean-forward="true" selection-start-line="445" selection-start-column="37" selection-end-line="445" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task(css)/task8/task8-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="1152" column="17" lean-forward="true" selection-start-line="1152" selection-start-column="17" selection-end-line="1152" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/task(css)/task8/css/task8-1.css" />
+    <entry file="file://$PROJECT_DIR$/task(css)/task8/task8-1.html" />
     <entry file="file://$PROJECT_DIR$/task(css)/task8/task8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="733">
+        <state relative-caret-position="704">
           <caret line="1160" column="38" lean-forward="false" selection-start-line="1160" selection-start-column="38" selection-end-line="1160" selection-end-column="38" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task(css)/task10/css/task10.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task(css)/task10/task10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="560">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task10/task10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
           <folding />
         </state>
       </provider>
