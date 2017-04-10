@@ -88,7 +88,6 @@ h2 {
 }
 .cat-1 {
     padding: 1.7rem 0.15rem 0.35rem 0.15rem;
-    text-align: center;
 }
 .virtue {
     padding: 0 0.44rem 0.5rem 0.44rem;
@@ -96,11 +95,35 @@ h2 {
 .virtue1 {
     padding: 0 0.44rem 0.5rem 0;
 }
+.virtue img, .virtue1 img {
+    display: block;
+    margin: 0 auto;
+}
+.virtue p, .virtue1 p {
+    line-height: 0.26rem;
+    color: #999999;
+    font-size: 0.16rem;
+}
 .number {
     padding: 0.55rem 0 0.5rem 0.44rem;
     border-left: 1px dashed #999;
+    color: #999999;
+}
+@media only screen and (max-width: 992px) {
+    .virtue1 {
+        padding: 0 0.44rem 0.5rem 0.44rem;
+    }
+    .cat-1 p{
+        text-align: center;
+    }
+    .number {
+        text-align: center;
+    }
 }
 /*cat-2*/
+.cat-2 {
+    text-align: center;
+}
 .person, .circle {
     color: #26a26f;
     font-weight: bold;
@@ -111,7 +134,7 @@ h2 {
 .person img {
     padding-right: 0.14rem;
 }
-.virtue p, .cto p {
+.cto p {
     line-height: 0.26rem;
     color: #999999;
     font-size: 0.16rem;
@@ -146,7 +169,7 @@ h3 {
     color: #afafaf;
     font-size: 0.14rem;
     font-weight: bold;
-    text-align: center;
+    text-align: left;
     vertical-align: middle;
 }
 /*cat-3*/
