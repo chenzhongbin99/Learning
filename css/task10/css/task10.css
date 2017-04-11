@@ -94,52 +94,12 @@ header {
         float: right !important;
     }
 }
-/*footer*/
-.tab1 {
-    padding: 0.58rem 0;
-    background: #f9f9f9;
-    color: #fff;
-    font-size: 0.16rem;
-}
-.tab2 {
-    height: 0.3rem;
-    background: #1d7ad9;
-    color: #fff;
-    font-size: 0.14rem;
-    line-height: 0.3rem;
-    text-align: center;
-}
-.we {
-    margin-top: 0.65rem;
-}
-.tab1 p {
-    padding: 0.06rem 0;
-    margin-bottom: 0.15rem;
-    color: #999;
-    cursor: pointer;
-}
-.contact {
-    padding-left: 0.2rem;
-    line-height: 0.26rem;
-    color: #999;
-}
-.contact p {
-    float: right;
-}
-.contact img {
-    float: right;
-    width: 0.9rem;
-}
-.tab1 span:hover {
-   color: #1d7ad9;
-}
 /*content*/
 .content {
     background: #fff;
 }
 .content-header {
     float: right;
-    padding: 0 0.15rem;
     font-size: 0.16rem;
 }
 .content-header li {
@@ -182,4 +142,155 @@ header {
 }
 .content-header li:hover .circle {
     background: #ff7f02;
+}
+/*content*/
+.form {
+    margin-bottom: 0.55rem;
+    border: 1px solid #e8e8e8;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    overflow: hidden;
+}
+.title {
+    padding: 0;
+}
+h3 {
+    padding-left: 0.1rem;
+    margin: 0.16rem 0;
+    font-size: 0.22rem;
+    font-weight: bold;
+    border-left: 4px solid #1d7ad9;
+}
+h4 {
+    display: inline-block;
+    font-size: 0.18rem;
+    font-weight: bold;
+}
+.box {
+    display: inline-block;
+    height: 0.45rem;
+    background: #f5f5f5;
+    line-height: 0.45rem;
+    color: #1d7ad9;
+}
+.box img {
+    width: 0.25rem;
+    padding: 0 0.05rem 0.05rem 0;
+}
+.box-details, .size-details {
+    display: inline-block;
+    padding: 0 0 0.3rem 0.46rem;
+    background: #fbfcff;
+}
+.box-type {
+    padding: 0.33rem 0 0 0;
+}
+.click {
+    width: 0.2rem;
+    padding-right: 0.18rem;
+    margin: 0.04rem 0.1rem 0 0.2rem;
+    border: 1px solid #d7d7d7;
+    height: 0.2rem;
+    background: #f8f9fb;
+    cursor: pointer;
+    -webkit-appearance: none;
+    border-radius: 0.2rem;
+    outline: none !important;
+}
+input:checked {
+    background: url("../images/checked.png") no-repeat;
+    background-size: 0.2rem 0.2rem;
+}
+.box-type span {
+    color: #8b8c8c;
+    font-size: 0.18rem;
+    vertical-align: top;
+}
+.tag {
+    float: right;
+    width: 1.2rem;
+    padding: 0.08rem;
+    background: url("../images/seclet.png") 0.9rem center no-repeat;
+    color: #8b8c8c;
+    font-size: 0.14rem;
+    -webkit-appearance: none;
+    cursor: pointer;
+}
+.choose {
+    padding-top: 0.25rem;
+}
+@media screen and (max-width: 768px) {
+    .choose-size {
+        padding-top: 0.33rem;
+    }
+}
+@media screen and (max-width: 768px) {
+    .tag {
+        float: left;
+    }
+}
+input.input-box {
+    width: 0.7rem;
+    margin: 0;
+    height: 0.3rem;
+    border: 1px solid #ccc;
+    background: #fbfcff;
+}
+.inside, .outside {
+    padding: 0 0.15rem;
+}
+.size-details span {
+    padding: 0.33rem 0 0 0;
+}
+.next {
+    padding: 1.44rem 0 0.96rem 0;
+    text-align: center;
+}
+.next button {
+    padding: 0.12rem 0.53rem;
+    border: none;
+    background: #e15053;
+    color: #fff;
+    font-size: 0.18rem;
+    font-weight: bold;
+    border-radius: 5px;
+}
+/*footer*/
+.tab1 {
+    padding: 0.58rem 0;
+    background: #f9f9f9;
+    color: #fff;
+    font-size: 0.16rem;
+}
+.tab2 {
+    height: 0.3rem;
+    background: #1d7ad9;
+    color: #fff;
+    font-size: 0.14rem;
+    line-height: 0.3rem;
+    text-align: center;
+}
+.we {
+    margin-top: 0.65rem;
+}
+.tab1 p {
+    padding: 0.06rem 0;
+    margin-bottom: 0.15rem;
+    color: #999;
+    cursor: pointer;
+}
+.contact {
+    padding-left: 0.2rem;
+    line-height: 0.26rem;
+    color: #999;
+}
+.contact p {
+    float: right;
+}
+.contact img {
+    float: right;
+    width: 0.9rem;
+}
+.tab1 span:hover {
+    color: #1d7ad9;
 }
