@@ -1,0 +1,120 @@
+@charset "UTF-8";
+html {
+  font-size: 62.5%;
+}
+body {
+  background-color: #eff0f4;
+  overflow: hidden;
+}
+header {
+  padding: 0 1.5rem;
+  background: #5ac0ce;
+  line-height: 8.8rem;
+}
+header a {
+  color: #fff;
+  font-size: 3.2rem;
+}
+header h2 {
+  color: #fff;
+  font-size: 3.6rem;
+  text-align: center;
+}
+.register {
+  float: left;
+}
+.close {
+  float: right;
+}
+.account,
+.password {
+  position: relative;
+  margin-top: 1.6rem;
+  background-color: #fff;
+}
+.iphone {
+  background: url("../images/iphone.png") 4.4rem no-repeat;
+  background-size: 2.8rem 4.2rem;
+}
+.locked {
+  background: url("../images/locked.png") 4.4rem no-repeat;
+  background-size: 2.8rem 4.2rem;
+}
+.account:before,
+.password:before {
+  content: '';
+  position: absolute;
+  top: 2.4rem;
+  left: 11.6rem;
+  width: 0.2rem;
+  height: 5.1rem;
+  background: #eaedee;
+}
+input {
+  width: 100%;
+  height: 10rem;
+  padding-left: 15rem;
+  font-size: 3.4rem;
+}
+.footer {
+  width: 100%;
+  height: 10rem;
+  margin: 3.5rem 0 0 0;
+  border: none;
+  background-color: #5ac0ce;
+  font-size: 3.6rem;
+  color: #fff;
+}
+.forgot-password a {
+  float: right;
+  color: #5fc0cd;
+  font-size: 3.2rem;
+  padding: 1rem 1.5rem;
+}
+@media screen and (max-width: 320px) {
+  html {
+    font-size: 40%;
+  }
+  header {
+    height: 6rem;
+    line-height: 6rem;
+  }
+  .account,
+  .password {
+    margin-top: 0.8rem;
+  }
+  .locked,
+  .iphone {
+    padding-left: 10rem;
+    height: 6rem;
+    background-position-x: 3rem;
+    background-size: 2rem 3.3rem;
+  }
+  .account:before,
+  .password:before {
+    top: 1.2rem;
+    left: 8rem;
+    width: 0.2rem;
+    height: 3.5rem;
+  }
+  .footer {
+    margin-top: 1.5rem;
+    height: 6rem !important;
+  }
+}
+::-webkit-input-placeholder {
+  /* WebKit browsers */
+  color: #C9C9C9;
+}
+:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #C9C9C9;
+}
+::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #C9C9C9;
+}
+:-ms-input-placeholder {
+  /* Internet Explorer 10+ */
+  color: #C9C9C9;
+}

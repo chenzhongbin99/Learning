@@ -39,11 +39,13 @@ header {
     width: 1.4rem;
     padding-top: 0.2rem;
 }
-
 @media screen and (max-width: 768px){
     .nav-img {
         width: 0.8rem;
         padding-top: 0.08rem;
+    }
+    .cat-1, .navbar-nav li a {
+        margin: 0.3rem auto !important;
     }
 }
 /*nav*/
@@ -198,7 +200,7 @@ h4 {
     outline: none !important;
 }
 input:checked {
-    background: url("../images/checked.png") no-repeat;
+    background: url("../images/checked.png") center no-repeat;
     background-size: 0.2rem 0.2rem;
 }
 .box-type span {
