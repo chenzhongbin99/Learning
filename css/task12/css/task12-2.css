@@ -1,0 +1,170 @@
+@charset "UTF-8";
+/*--common--*/
+html {
+  font-size: 62.5%;
+}
+body {
+  min-width: 320px;
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+button {
+  border: none;
+  background: #f8fafb;
+}
+/*--header--*/
+header {
+  background: #5fc0cd url("../images/location.png") right 1.5rem bottom 1.2rem no-repeat;
+  background-size: 2rem;
+  overflow: hidden;
+}
+.title {
+  width: 50%;
+  margin: 0.8rem 25%;
+  background: #55a8b3;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+.title .header-left,
+.title .header-right {
+  float: left;
+  width: 50%;
+  padding: 0.8rem 0;
+  border-radius: 0.5rem;
+  font-size: 1.7rem;
+  outline: none;
+  cursor: pointer;
+}
+.title .header-left {
+  background: #55a8b3;
+  color: #fff;
+}
+.title .header-right {
+  background: #fff;
+  color: #5fc0cd;
+}
+/*--main--*/
+main {
+  padding-bottom: 6rem;
+  background-color: #fff;
+  overflow: hidden;
+}
+ul {
+  padding: 0 1.5rem;
+}
+li {
+  font-size: 1.4rem;
+  border-bottom: 1px solid #e1e5e7;
+}
+li .date {
+  display: inline-block;
+  padding: 1.5rem 0 0 1.8rem;
+  background: url("../images/date.png") left 1.8rem no-repeat;
+  background-size: 1.2rem;
+  color: #999;
+}
+li .time {
+  position: relative;
+  padding: 1.3rem 0 1.3rem 1.8rem;
+  background: url("../images/next.png") right center no-repeat;
+  background-size: 1.2rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+li .time .term {
+  display: inline-block;
+  width: 50%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+li .time .pay {
+  float: right;
+  padding-right: 2.5rem;
+  font-size: 1.5rem;
+  color: #e63b0e;
+}
+li .address {
+  display: inline-block;
+  padding: 0 0 1.5rem 1.8rem;
+  background: url("../images/shape.png") left 0.4rem no-repeat;
+  background-size: 1rem;
+  color: #999;
+}
+.list {
+  display: flex;
+  padding: 0 1.8rem;
+  border-bottom: 1px solid #e1e5e7;
+}
+.list select {
+  width: 100%;
+  padding: 1.5rem 0 1.5rem 1.2rem;
+  border: none;
+  color: #999;
+  font-size: 1.4rem;
+  outline: none;
+}
+.list .line {
+  padding: 1.2rem 0;
+  color: #e1e5e7;
+  font-size: 2.5rem;
+  font-weight: 100;
+}
+/*--footer--*/
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  min-width: 320px;
+  max-width: 720px;
+  background: #f8fafb;
+  text-align: center;
+}
+footer .page {
+  padding-top: 0.5rem;
+  cursor: pointer;
+}
+footer .page img {
+  width: 2.3rem;
+}
+footer .page span {
+  margin-top: 0.8rem;
+  color: #5fc0cd;
+  font-size: 1rem;
+}
+footer .pan {
+  width: 40%;
+  vertical-align: middle;
+  cursor: pointer;
+}
+footer .pan img {
+  width: 5rem;
+}
+footer .mine {
+  padding-top: 0.5rem;
+  cursor: pointer;
+}
+footer .mine img {
+  width: 2.3rem;
+}
+footer .mine span {
+  margin-top: 0.7rem;
+  color: #a6a7a7;
+  font-size: 1rem;
+}
+@media screen and (min-width: 420px) {
+  html {
+    font-size: 66%;
+  }
+}
+@media screen and (min-width: 520px) {
+  html {
+    font-size: 80%;
+  }
+}
+@media screen and (min-width: 640px) {
+  html {
+    font-size: 99%;
+  }
+}

@@ -5,23 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9098bfdf-9126-4d44-b77c-8f11d05b10e6" name="默认的" comment="task">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task11/images/iphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task11/images/locked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task11/images/qq.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task11/images/wechat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task11/images/weibo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task11/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task11/css/task11.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task11/css/task11.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task11/task11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/css/style.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/css/task12-1.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/backdrop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/date.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/location.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/mine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/pan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/shape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/images/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/css/task12-1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/css/task12-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/css/task12-2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/task12-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/task12/task12-2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/task10/css/task10.css" afterPath="$PROJECT_DIR$/css/task10/css/task10.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/task8/css/task8.css" afterPath="$PROJECT_DIR$/css/task8/css/task8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/task8/homepage.html" afterPath="$PROJECT_DIR$/css/task8/homepage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/task11/css/task11.css" afterPath="$PROJECT_DIR$/css/task11/css/task11.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/task11/css/task11.less" afterPath="$PROJECT_DIR$/css/task11/css/task11.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/task12/css/style.less" afterPath="$PROJECT_DIR$/css/task12/css/style.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/task12/css/task12-1.less" afterPath="$PROJECT_DIR$/css/task12/css/task12-1.less" />
     </list>
     <ignored path="Learning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,10 +50,10 @@
         <entry file="file://$PROJECT_DIR$/css/task12/task12-1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="522">
-              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+              <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
               <folding>
-                <element signature="e#654#660#0" expanded="true" />
-                <element signature="e#660#666#0" expanded="true" />
+                <element signature="e#609#615#0" expanded="true" />
+                <element signature="e#615#621#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,109 +62,29 @@
       <file leaf-file-name="task12-1.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/task12/css/task12-1.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3770">
-              <caret line="130" column="19" lean-forward="true" selection-start-line="130" selection-start-column="19" selection-end-line="130" selection-end-column="19" />
+            <state relative-caret-position="592">
+              <caret line="180" column="11" lean-forward="true" selection-start-line="180" selection-start-column="11" selection-end-line="180" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task12-1.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/task12/css/task12-1.css">
+      <file leaf-file-name="task12-2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/task12/task12-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="136" column="17" lean-forward="false" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="17" />
-              <folding>
-                <marker date="1491985844694" expanded="true" signature="23:46" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="109:179" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="183:244" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="252:347" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="353:383" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="387:413" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="424:481" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="490:637" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="648:715" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="731:786" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="793:832" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="838:877" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="887:1033" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="1041:1177" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="1190:1251" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="1255:1433" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="1439:1600" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="1610:1680" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="1695:1716" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="1723:1859" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="1871:1932" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="1961:1993" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="2004:2155" ph="{...}" />
-                <marker date="1491985844694" expanded="true" signature="2163:2301" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/task12/css/style.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="841">
+              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task10.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/task10/task10.html">
+      <file leaf-file-name="task12-2.less" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/task12/css/task12-2.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="32" column="43" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="43" />
-              <folding>
-                <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task10.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/task10/css/task10.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="47" column="39" lean-forward="false" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+            <state relative-caret-position="-986">
+              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="homepage.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/task8/homepage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="63" column="27" lean-forward="true" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="profession.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/task8/profession.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task8.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/task8/task8.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="62" column="54" lean-forward="false" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
-              <folding>
-                <element signature="n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -236,18 +164,21 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/task8/homepage.html" />
         <option value="$PROJECT_DIR$/css/task11/css/3.less" />
-        <option value="$PROJECT_DIR$/css/task11/task11.html" />
-        <option value="$PROJECT_DIR$/css/task11/css/task11.less" />
         <option value="$PROJECT_DIR$/css/task12/css/task5.css" />
         <option value="$PROJECT_DIR$/css/task8/css/task8.css" />
-        <option value="$PROJECT_DIR$/css/task12/css/1.css" />
         <option value="$PROJECT_DIR$/css/task12/css/reset.css" />
         <option value="$PROJECT_DIR$/css/task12/css/style.css" />
         <option value="$PROJECT_DIR$/css/task7/css/task7-1.css" />
+        <option value="$PROJECT_DIR$/css/task10/css/task10.css" />
+        <option value="$PROJECT_DIR$/css/task12/css/1.css" />
+        <option value="$PROJECT_DIR$/css/task12/css/task12-1.css" />
+        <option value="$PROJECT_DIR$/css/task11/task11.html" />
+        <option value="$PROJECT_DIR$/css/task11/css/task11.less" />
         <option value="$PROJECT_DIR$/css/task12/css/style.less" />
         <option value="$PROJECT_DIR$/css/task12/task12-1.html" />
+        <option value="$PROJECT_DIR$/css/task12/task12-2.html" />
         <option value="$PROJECT_DIR$/css/task12/css/task12-1.less" />
-        <option value="$PROJECT_DIR$/css/task10/css/task10.css" />
+        <option value="$PROJECT_DIR$/css/task12/css/task12-2.less" />
       </list>
     </option>
   </component>
@@ -266,7 +197,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
+    <option name="width" value="1924" />
     <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -285,7 +216,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -295,98 +225,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task12-1.less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style.less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -556,6 +394,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="task5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="task4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -602,6 +480,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -723,7 +602,8 @@
       <workItem from="1491919217764" duration="1320000" />
       <workItem from="1491922118805" duration="1994000" />
       <workItem from="1491958995500" duration="546000" />
-      <workItem from="1491959573401" duration="19474000" />
+      <workItem from="1491959573401" duration="32438000" />
+      <workItem from="1492046463377" duration="18844000" />
     </task>
     <task id="LOCAL-00001" summary="learning">
       <created>1491282436829</created>
@@ -823,16 +703,23 @@
       <option name="project" value="LOCAL" />
       <updated>1491875416534</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="task">
+      <created>1491990142554</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1491990142554</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297759000" />
+    <option name="totallyTimeSpent" value="329567000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1924" height="1048" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.134375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13378803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821077" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -872,12 +759,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/task(css)/task7/task7-3.html" />
-    <entry file="file://$PROJECT_DIR$/task(css)/task8/images/alibaba.png" />
-    <entry file="file://$PROJECT_DIR$/task(css)/task8/images/archive.png" />
-    <entry file="file://$PROJECT_DIR$/task(css)/task8/8.html" />
-    <entry file="file://$PROJECT_DIR$/task(css)/task5/css/reset.css" />
-    <entry file="file://$PROJECT_DIR$/task(css)/task8/css/reset.css" />
     <entry file="file://$PROJECT_DIR$/task(css)/task5/task5.html" />
     <entry file="file://$PROJECT_DIR$/task(css)/task8/css/task8-1.css" />
     <entry file="file://$PROJECT_DIR$/task(css)/task8/task8-1.html" />
@@ -926,32 +807,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="22" column="49" lean-forward="false" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/task11/css/12.less" />
     <entry file="file://$PROJECT_DIR$/css/task11/css/2.less" />
-    <entry file="file://$PROJECT_DIR$/css/task11/css/3.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-783">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/task11/css/3.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task11/css/3.css" />
+    <entry file="file://$PROJECT_DIR$/css/task11/css/3.less" />
     <entry file="file://$PROJECT_DIR$/css/task11/css/task11.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-203">
           <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,51 +830,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/task11/css/task11.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1827">
-          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/task11/task11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/task12/css/task5.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="56" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="162" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/task12/task5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-319">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/task12/css/1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="148" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task12/css/task5.css" />
+    <entry file="file://$PROJECT_DIR$/css/task12/task5.html" />
     <entry file="file://$PROJECT_DIR$/css/task12/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,7 +843,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,67 +858,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="64" column="14" lean-forward="true" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/task12/css/task12-1.css">
+    <entry file="file://$PROJECT_DIR$/css/task8/task8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="136" column="17" lean-forward="false" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="17" />
+        <state relative-caret-position="332">
+          <caret line="62" column="54" lean-forward="false" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
           <folding>
-            <marker date="1491985844694" expanded="true" signature="23:46" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="109:179" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="183:244" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="252:347" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="353:383" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="387:413" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="424:481" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="490:637" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="648:715" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="731:786" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="793:832" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="838:877" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="887:1033" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="1041:1177" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="1190:1251" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="1255:1433" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="1439:1600" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="1610:1680" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="1695:1716" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="1723:1859" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="1871:1932" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="1961:1993" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="2004:2155" ph="{...}" />
-            <marker date="1491985844694" expanded="true" signature="2163:2301" ph="{...}" />
+            <element signature="n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/task12/css/style.less">
+    <entry file="file://$PROJECT_DIR$/css/task8/profession.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="296">
+          <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/task12/css/task12-1.less">
+    <entry file="file://$PROJECT_DIR$/css/task10/css/task10.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3770">
-          <caret line="130" column="19" lean-forward="true" selection-start-line="130" selection-start-column="19" selection-end-line="130" selection-end-column="19" />
+        <state relative-caret-position="-406">
+          <caret line="47" column="39" lean-forward="false" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/task12/task12-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-          <folding>
-            <element signature="e#654#660#0" expanded="true" />
-            <element signature="e#660#666#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1106,37 +898,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/task10/css/task10.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="47" column="39" lean-forward="false" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/task8/homepage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
+        <state relative-caret-position="261">
           <caret line="63" column="27" lean-forward="true" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/task8/profession.html">
+    <entry file="file://$PROJECT_DIR$/css/task7/task7-3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        <state relative-caret-position="493">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/task8/task8.html">
+    <entry file="file://$PROJECT_DIR$/css/task12/css/1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="62" column="54" lean-forward="false" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
+        <state relative-caret-position="585">
+          <caret line="73" column="1" lean-forward="false" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task11/task11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task11/css/task11.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task12/css/task12-1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="119" column="17" lean-forward="false" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task12/css/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task5/css/task5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1827">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task5/task5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-841">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task12/css/2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="186" column="10" lean-forward="true" selection-start-line="186" selection-start-column="10" selection-end-line="186" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task12/task12-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task12/task12-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
           <folding>
-            <element signature="n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#609#615#0" expanded="true" />
+            <element signature="e#615#621#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task12/css/task12-1.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="180" column="11" lean-forward="true" selection-start-line="180" selection-start-column="11" selection-end-line="180" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/task12/css/task12-2.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-986">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>

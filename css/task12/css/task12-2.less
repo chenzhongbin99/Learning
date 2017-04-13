@@ -1,0 +1,171 @@
+@import "style";
+/*--common--*/
+html {
+    font-size: 62.5%;
+}
+body {
+    min-width: 320px;
+    max-width: 720px;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+button {
+    border: none;
+    background: #f8fafb;
+}
+/*--header--*/
+header  {
+    background: #5fc0cd url("../images/location.png") right 1.5rem bottom 1.2rem no-repeat;
+    background-size: 2rem;
+    overflow: hidden;
+}
+.title {
+    width:50%;
+    margin: 0.8rem 25%;
+    background: #55a8b3;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    .header-left, .header-right {
+        .fl();
+        width: 50%;
+        padding: 0.8rem 0;
+        border-radius: 0.5rem;
+        font-size: 1.7rem;
+        outline: none;
+        cursor: pointer;
+    }
+    .header-left  {
+        background: #55a8b3;
+        color: @c;
+    }
+    .header-right  {
+        background: @c;
+        color: #5fc0cd;
+    }
+}
+/*--main--*/
+main  {
+    padding-bottom: 6rem;
+    background-color: @c;
+    overflow: hidden;
+}
+.content {
+}
+ul {
+    padding: 0 1.5rem;
+}
+li  {
+    font-size: 1.4rem;
+    border-bottom: 1px solid #e1e5e7;
+    .date  {
+        display: inline-block;
+        padding: 1.5rem 0 0 1.8rem;
+        background: url("../images/date.png") left 1.8rem no-repeat;
+        background-size: 1.2rem;
+        color: #999;
+    }
+    .time  {
+        .pos(r);
+        padding: 1.3rem 0 1.3rem 1.8rem;
+        background: url("../images/next.png") right center no-repeat;
+        background-size: 1.2rem;
+        overflow: hidden;
+        cursor: pointer;
+        .term {
+            display: inline-block;
+            width: 50%;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+        .pay {
+            float: right;
+            padding-right: 2.5rem;
+            font-size: 1.5rem;
+            color: #e63b0e;
+        }
+    }
+    .address  {
+        display: inline-block;
+        padding: 0 0 1.5rem 1.8rem;
+        background: url("../images/shape.png") left 0.4rem no-repeat;
+        background-size: 1rem;
+        color: #999;
+    }
+}
+.list {
+    display: flex;
+    padding: 0 1.8rem;
+    border-bottom: 1px solid #e1e5e7;
+    select  {
+        width: 100%;
+        padding: 1.5rem 0 1.5rem 1.2rem;
+        border: none;
+        color: #999;
+        font-size: 1.4rem;
+        outline: none;
+    }
+    .line {
+        padding: 1.2rem 0;
+        color: #e1e5e7;
+        font-size: 2.5rem;
+        font-weight: 100;
+    }
+}
+/*--footer--*/
+footer  {
+    .pos(f);
+    bottom: 0;
+    width: 100%;
+    min-width: 320px;
+    max-width: 720px;
+    background: #f8fafb;
+    text-align: center;
+    .page {
+        padding-top: 0.5rem;
+        cursor: pointer;
+        img {
+            width: 2.3rem;
+        }
+        span {
+            margin-top: 0.8rem;
+            color: #5fc0cd;
+            font-size: 1rem;
+        }
+    }
+    .pan {
+        width: 40%;
+        vertical-align: middle;
+        cursor: pointer;
+        img {
+            width: 5rem;
+        }
+    }
+    .mine {
+        padding-top: 0.5rem;
+        cursor: pointer;
+        img {
+            width: 2.3rem;
+        }
+        span {
+            margin-top: 0.7rem;
+            color: #a6a7a7;
+            font-size: 1rem;
+        }
+    }
+}
+@media screen and (min-width: 420px) {
+    html {
+        font-size: 66%;
+    }
+}
+@media screen and (min-width: 520px) {
+    html {
+        font-size: 80%;
+    }
+}
+@media screen and (min-width: 640px) {
+    html {
+        font-size: 99%;
+    }
+}
