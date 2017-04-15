@@ -211,7 +211,7 @@ h3 {
 }
 .symbol img:hover {
     box-shadow: -1px 0px 16px 2px #ccc;
-    cursor: pointer;
+   .cf;
 }
 .symbol img {
     width: 2.2rem;
@@ -234,7 +234,7 @@ h3 {
 }
 .details span:hover {
     border-bottom: 1px solid #26a26f;
-    cursor: pointer;
+   .cf;
 }
 /*footer*/
 .tab1 {
@@ -258,7 +258,7 @@ h3 {
 .tab1 p {
     padding: 0.06rem 0;
     margin-bottom: 0.15rem;
-    cursor: pointer;
+   .cf;
 }
 .tab1 span {
     border-bottom: 1px solid #26a26f;
@@ -388,7 +388,7 @@ h3 {
 .direction B {
     padding: 0.02rem;
     margin: 0 0.18rem;
-    cursor: pointer;
+   .cf;
 }
 .direction B:hover {
     background: #29b078;
@@ -471,6 +471,6 @@ h3 {
     -moz-animation:fadein 1.5s linear 1;
     -o-animation:fadein 1.5s linear 1;
     -ms-animation:fadein 1.5s linear 1;
-     cursor: pointer;;
+    .cf;;
      opacity: 1;
  }

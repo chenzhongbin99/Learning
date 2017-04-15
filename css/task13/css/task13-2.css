@@ -1,0 +1,162 @@
+@charset "UTF-8";
+.cf {
+  cursor: pointer;
+}
+/*common*/
+html {
+  font-size: 62.5%;
+}
+/*header*/
+header img {
+  width: 2rem;
+  cursor: pointer;
+}
+/*top*/
+main {
+  position: relative;
+  width: 100%;
+  padding-bottom: 8rem;
+  background: #29bde0;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.top h3 {
+  padding-left: 2.5rem;
+  height: 4rem;
+  background: #b9e9f5;
+  color: #464646;
+  line-height: 4rem;
+  font-size: 1.3rem;
+}
+.top i {
+  display: inline-block;
+  position: absolute;
+  width: 2.5rem;
+  height: 2.5rem;
+  background: url("../images/music.png") no-repeat;
+  background-size: 2.5rem 2.5rem;
+  overflow: hidden;
+}
+.top .play {
+  top: 0.8rem;
+  right: 1rem;
+  cursor: pointer;
+}
+.top .play audio {
+  opacity: 0;
+}
+.top .play img {
+  position: absolute;
+  top: 4.2rem;
+  right: 0;
+  width: 2.5rem;
+  margin: 0.8rem;
+}
+.top .triangle-down {
+  position: relative;
+  left: 3.5rem;
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 12px solid #b9e9f5;
+}
+.top p {
+  padding-left: 3.5rem;
+  margin: 0.7rem 0 2rem 0;
+  color: #fff;
+  font-size: 1.2rem;
+}
+/*content*/
+.content {
+  margin: 0 0.5rem;
+  text-align: center;
+}
+.content .category {
+  display: inline-block;
+  padding: 0 3.5%;
+  text-align: center;
+}
+.content .category .cat {
+  width: 6.3rem;
+  border: 5px solid #fff;
+  margin: 0 auto;
+}
+.content .category .cat .profession {
+  height: 5rem;
+  background: #f5c97b;
+  line-height: 5rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.content .category .cat .number {
+  height: 1.3rem;
+  background: #83b09a;
+  line-height: 1.3rem;
+  color: #fff;
+  font-size: 1.1rem;
+}
+.content .category span {
+  display: inline-block;
+  width: 1.38rem;
+  height: 1.38rem;
+  margin: 1rem 0;
+  background-image: url("../images/sprites.png");
+  background-size: 100%;
+  opacity: 0;
+}
+.content .category .knife {
+  background-position: 0 0;
+}
+.content .category .search {
+  background-position: 0 33%;
+}
+.content .category .coord {
+  background-position: 0 67%;
+}
+.content .category .cross {
+  background-position: 0 100%;
+}
+.content .category:hover span {
+  opacity: 1;
+}
+/*footer*/
+footer {
+  height: 9rem;
+  background: #29bde0;
+}
+footer .next {
+  display: block;
+  width: 80%;
+  padding: 1.5rem;
+  margin: 1.6rem auto;
+  background: #fbb435;
+  color: #fff;
+  font-size: 2rem;
+  text-align: center;
+}
+@media screen and (min-width: 320px) {
+  html {
+    font-size: 73.5%;
+  }
+}
+@media screen and (max-width: 350px) {
+  .category {
+    padding: 0 1.5% !important;
+  }
+}
+@media screen and (min-width: 425px) {
+  html {
+    font-size: 85%;
+  }
+}
+@media screen and (min-width: 550px) {
+  html {
+    font-size: 111%;
+  }
+}
+@media screen and (min-width: 640px) {
+  html {
+    font-size: 136%;
+  }
+}

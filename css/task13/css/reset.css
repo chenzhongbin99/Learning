@@ -1,0 +1,7 @@
+﻿/* CSS reset */
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,p,td,strong {padding:0;margin:0;}
+body {font-family: "Microsoft YaHei", serif;}
+a {text-decoration:none; color:#00c; outline:none;}/*此处待添加默认链接颜色*/
+li {list-style:none;}
+input {border:none;outline:none;}
+h1,h2,h3,h4,h5,h6 {font-size:100%;font-weight:normal;}

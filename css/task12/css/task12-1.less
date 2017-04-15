@@ -129,7 +129,7 @@ footer  {
         .fl();
         width: 50%;
     }
-    .messages  {
+    .messages, .phone {
         width: 90%;
         height: 4.4rem;
         border: 2px solid #5fc0cd;
@@ -140,21 +140,22 @@ footer  {
         cursor: pointer;
         outline: none;
     }
+    .messages {
+        border: 2px solid #5fc0cd;
+        border-radius: 10px;
+        background-color: @c;
+        color: #5fc0cd;
+    }
     .phone  {
-        width: 90%;
-        height: 4.4rem;
         border: none;
         border-radius: 10px;
         background-color: #5fc0cd;
-        font-size: 1.7rem;
         color: @c;
-        cursor: pointer;
-        outline: none;
     }
 }
 @media screen and (min-width: 420px){
     html {
-        font-size: 65.5%;
+        font-size: 64.5%;
     }
     .user {
         padding: 5rem 0;
@@ -165,7 +166,7 @@ footer  {
 }
 @media screen and (min-width: 520px){
     html {
-        font-size: 80.5%;
+        font-size: 78.5%;
     }
     .user {
         padding: 5rem 0;
