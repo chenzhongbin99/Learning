@@ -1,0 +1,174 @@
+/*common*/
+html {
+  font-size: 625%;
+}
+B {
+  font-size: 0.14rem;
+}
+/*职业*/
+.pro-content {
+  padding-bottom: 2.3rem;
+  background: #fafafa;
+}
+.pro-content .pro-top {
+  padding: 0.33rem 0.15rem;
+  border-bottom: 1px solid #d0d6d9;
+  font-size: 0.16rem;
+}
+.pro-content .direction {
+  padding: 0.2rem 0.15rem;
+  border-bottom: 1px solid #d0d6d9;
+  font-size: 0;
+}
+.pro-content .direction span {
+  font-size: 0.14rem;
+}
+.pro-content .direction B {
+  padding: 0.02rem;
+  margin: 0 0.18rem;
+  cursor: pointer;
+}
+.pro-content .direction B:hover {
+  background: #29b078;
+  color: #fff;
+}
+.pro-title {
+  border-bottom: 1px solid #d0d6d9;
+}
+.pro-title h3 {
+  text-align: left;
+}
+.brief {
+  position: relative;
+  margin: 0.47rem 0 0.1rem 0;
+  background: #fff;
+  box-shadow: -1px 0 16px 2px #ccc;
+  font-size: 0;
+  overflow: hidden;
+}
+.brief .post {
+  padding: 0.2rem 0.15rem;
+}
+.brief .post img {
+  float: left;
+  width: 1.4rem;
+  padding-right: 0.1rem;
+}
+.brief .post B {
+  display: block;
+  padding: 0.1rem 0;
+}
+.brief .post p {
+  font-size: 0.14rem;
+}
+.brief .post-tag {
+  padding: 0.1rem 0.15rem;
+}
+.brief .post-tag img {
+  padding-left: 0.13rem;
+}
+.brief .post-tag1,
+.brief .post-tag2,
+.brief .post-tag3 {
+  padding: 0.1rem 0.15rem;
+}
+.brief .post-tag2 {
+  text-align: center;
+}
+.brief .post-tag,
+.brief .tag2-1,
+.brief .post-tag1,
+.brief .post-tag3 {
+  border-top: 1px solid #eeeded;
+  border-left: 1px solid #eeeded;
+}
+.brief .tag2-1,
+.brief .tag2-2,
+.brief .tag2-3 {
+  padding: 0;
+}
+.brief .gy {
+  color: #999;
+}
+.brief .rd {
+  padding-left: 0.13rem;
+  color: #f01400;
+}
+.brief .gy,
+.brief .rd,
+.brief .bk,
+.brief .bk1,
+.brief .bk2 {
+  font-size: 0.12rem;
+}
+.brief .bk1,
+.brief .bk2 {
+  color: #333333;
+}
+.brief .bk2,
+.brief .post-tag1 {
+  float: right !important;
+}
+.brief .cartoon {
+  position: absolute;
+  width: 100%;
+  padding: 0.4rem;
+  height: 100%;
+  background: rgba(30, 30, 30, 0.6);
+  color: #fff;
+  font-size: 0.16rem;
+  opacity: 0;
+}
+.brief .cartoon .wh {
+  padding: 0.4rem 0;
+  text-align: center;
+}
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-o-keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-ms-keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.cartoon:hover {
+  animation: fadein 1.5s linear 1;
+  -webkit-animation: fadein 1.5s linear 1;
+  -moz-animation: fadein 1.5s linear 1;
+  -o-animation: fadein 1.5s linear 1;
+  -ms-animation: fadein 1.5s linear 1;
+  cursor: pointer;
+  opacity: 1;
+}
