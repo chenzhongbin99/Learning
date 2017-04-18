@@ -52,58 +52,29 @@
         </div>
     </div>
     <!--首页-->
-<!--轮播图-->
-    <section id="rt-showcase-surround">
-        <div id="rt-showcase" class="slider-container rt-overlay-dark">
-            <div class="rt-container slider-container">
-                <div class="rt-grid-12 rt-alpha rt-omega">
-                    <div class="csslider1 autoplay">
-                        <input name="cs_anchor1" autocomplete="off" id="cs_slide1_0" type="radio" class="cs_anchor slide" >
-                        <input name="cs_anchor1" autocomplete="off" id="cs_slide1_1" type="radio" class="cs_anchor slide" >
-                        <input name="cs_anchor1" autocomplete="off" id="cs_slide1_2" type="radio" class="cs_anchor slide" >
-                        <input name="cs_anchor1" autocomplete="off" id="cs_play1" type="radio" class="cs_anchor" checked>
-                        <input name="cs_anchor1" autocomplete="off" id="cs_pause1" type="radio" class="cs_anchor" >
-                        <ul>
-                            <div class="show-img">
-                                <img src="images/banner-1.png">
-                            </div>
-                            <li class="num0 img">
-                                <img src="images/banner-1.png" alt="Clouds" title="Clouds" />
-                            </li>
-                            <li class="num1 img">
-                                <img src="images/banner-2.png" alt="Typewriter" title="Typewriter" />
-                            </li>
-                            <li class="num2 img">
-                                <img src="images/banner-3.png" alt="Bicycle" title="Bicycle" />
-                            </li>
-
-                        </ul>
-                        <div class="cs_arrowprev">
-                            <label class="num0" for="cs_slide1_0"></label>
-                            <label class="num1" for="cs_slide1_1"></label>
-                            <label class="num2" for="cs_slide1_2"></label>
-                        </div>
-                        <div class="cs_arrownext">
-                            <label class="num0" for="cs_slide1_0"></label>
-                            <label class="num1" for="cs_slide1_1"></label>
-                            <label class="num2" for="cs_slide1_2"></label>
-                        </div>
-                        <div class="cs_bullets">
-                            <label class="num0" for="cs_slide1_0">
-                                <span class="cs_point"></span>
-                            </label>
-                            <label class="num1" for="cs_slide1_1">
-                                <span class="cs_point"></span>
-                            </label>
-                            <label class="num2" for="cs_slide1_2">
-                                <span class="cs_point"></span>
-                            </label>
-                        </div>
-                    </div>
-                </div>
+    <!-- 轮播图 -->
+    <div id="fsD1" class="focus">
+        <div id="D1pic1" class="fPic">
+            <div class="fcon">
+                <img src="images/banner-1.png">
+            </div>
+            <div class="fcon">
+                <img src="images/banner-2.png">
+            </div>
+            <div class="fcon">
+                <img src="images/banner-3.png">
             </div>
         </div>
-    </section>
+        <div class="fbg">
+            <div class="D1fBt" id="D1fBt">
+                <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>1</i></a>
+                <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>2</i></a>
+                <a href="javascript:void(0)" hidefocus="true" target="_self" class="current"><i>3</i></a>
+            </div>
+        </div>
+        <span class="prev"></span>
+        <span class="next"></span>
+    </div>
     <!--content-->
     <div class="content">
         <!--cat-1-->
@@ -342,5 +313,8 @@
     </div>
 </footer>
     <script src="js/nav.js"></script>
+    <script src="js/jquery-1.8.3.min.js"></script>
+    <script src="js/koala.min.1.5.js"></script>
+    <script src="js/slideshow.js"></script>
 </body>
 </html>
