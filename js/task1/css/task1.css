@@ -1,0 +1,38 @@
+html {
+    font-size: 625%;
+}
+body {
+    min-width: 320px;
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 0;
+}
+.circle {
+    float: left;
+    padding: 29% 0 0 0;
+    margin: 2%;
+    width: 29%;
+    background: orange;
+    border-radius: 10px;
+}
+button {
+    border: none;
+}
+button {
+    display: inline-block;
+    width: 100%;
+    height: 0.7rem;
+    margin: 0.12rem 0;
+    border-radius: 10px;
+    border: 1px solid orange;
+    background: #fff;
+    color: orange;
+    font-size: 0.2rem;
+    letter-spacing: 0.02rem;
+    outline: none;
+    cursor: pointer;
+}
+button:hover {
+    background: orange;
+    color: #fff;
+}
