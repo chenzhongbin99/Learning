@@ -1,0 +1,70 @@
+body {
+    margin: 0 auto;
+}
+.content {
+    display: flex;
+    height: 735px;
+    background: url("../images/banner_5.png") center no-repeat;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.wrap {
+    width: 270px;
+    padding: 0 28px;
+    background: #d8dfee;
+    font-size: 0;
+}
+p {
+    line-height: 44px;
+    color: #03a9f4;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.item {
+    display: flex;
+    margin-bottom: 10px;
+    background: #fff;
+    align-items: center;
+}
+img {
+    width: 10px;
+    height: 10px;
+    padding: 0 10px;
+}
+span {
+    height: 10px;
+    width: 1px;
+    background: #ccc;
+}
+input {
+    width: 80%;
+    padding-left: 10px;
+    height: 35px;
+    font-size: 8px;
+}
+button {
+    width: 100%;
+    margin: 30px 0 15px 0;
+    border: none;
+    border-radius: 5px;
+    line-height: 30px;
+    outline: none;
+    background: #03a9f4;
+    color: #fff;
+    font-size: 9px;
+    cursor: pointer;
+}
+::-webkit-input-placeholder  { /* WebKit browsers */
+    color: #C9C9C9;
+}
+:-moz-placeholder  { /* Mozilla Firefox 4 to 18 */
+    color: #C9C9C9;
+}
+::-moz-placeholder  { /* Mozilla Firefox 19+ */
+    color: #C9C9C9;
+}
+:-ms-input-placeholder  { /* Internet Explorer 10+ */
+    color: #C9C9C9;
+}

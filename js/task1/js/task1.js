@@ -1,3 +1,6 @@
+/**
+ * Created by ChrisChen on 2017/4/20.
+ */
 var circle=document.getElementsByClassName("circle");
 var btnStart=document.getElementById("start");
 var num=[];
@@ -24,7 +27,7 @@ function flash() {
 
 //开始闪
 function startFlash() {
-    clearInterval(timer);//清楚已设置对象
+    clearInterval(timer);
     timer=setInterval(startFlash,1000);
     for(var i=0;i<circle.length;i++){
         circle[i].style.backgroundColor="orange";
@@ -40,7 +43,7 @@ btnStart.onclick=function () {
 
 //结束闪
 function endFlash() {
-    clearInterval(timer);//清楚已设置对象
+    clearInterval(timer);
     for(var i=0;i<circle.length;i++){
         circle[i].style.backgroundColor="orange";
     }
