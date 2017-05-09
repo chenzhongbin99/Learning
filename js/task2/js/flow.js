@@ -23,17 +23,13 @@ for(var j=1; j<=dates; j++){
         if(state[k].deadDay == j && state[k].life == "killed"){
             $(".wrap").eq(j-1).append('<div class="detail"><div class="tri"></div><p>晚上：'+state[k].num+'号被杀手杀死，真实身份是'+state[k].role+'</p></div>');
             //杀手按钮下的信息
-            if(dates % 2 == 0){
-                $(".message").eq(j-3).append('晚上：'+state[k].num+'号被杀手杀死，真实身份是'+state[k].role);
-            }
-            else {
-                $(".message").eq(j-1).append('晚上：'+state[k].num+'号被杀手杀死，真实身份是'+state[k].role);
-            }
+            $(".message1").last(j).text('晚上：'+state[k].num+'号被杀手杀死，真实身份是'+state[k].role);
         }
     }
     for(var l=0; l<state.length; l++){
         if(state[l].deadDay == j && state[l].life == "voted"){
             $(".detail").eq(j-1).append('<p>白天：'+state[l].num+'号被投票投死，真实身份是'+state[l].role+'</p>');
+            $(".message2").last(j).text('白天：'+state[l].num+'号被投票投死，真实身份是'+state[l].role);
         }
     }
 }
@@ -77,24 +73,39 @@ $(".words").click(function () {
 });
 //点击玩家依次发言并判断
 $(".speak").click(function () {
-    if($(".words").css("background-color") == "rgb(131, 176, 154)"){
+    var killerColor = $(".btnKiller").css("background-color");
+    var wordsColor = $(".words").css("background-color");
+    if(wordsColor != "rgb(131, 176, 154)" && killerColor != "rgb(131, 176, 154)") {
+        alert("不要跳跃操作啊！请先进行杀手杀人。");
+    }
+    else if(wordsColor != "rgb(131, 176, 154)"){
+        alert("不要跳跃操作啊！请先进行亡灵发表遗言。")
+    }
+    else{
         $(this).css("background-color","#83b09a");
         $(this).siblings("i").css("border-color","transparent #83b09a transparent transparent");
         alert("玩家依次发言讨论");
     }
-    else{
-        alert("不要跳跃操作啊！请先进行亡灵发表遗言。")
-    }
 });
 //点击投票按钮并判断是否跳转至投票页面
 $(".btnVote").click(function () {
-    if($(".speak").css("background-color") == "rgb(131, 176, 154)"){
+    var killerColor = $(".btnKiller").css("background-color");
+    var wordsColor = $(".words").css("background-color");
+    var speakColor = $(".speak").css("background-color");
+
+    if(killerColor != "rgb(131, 176, 154)" && wordsColor != "rgb(131, 176, 154)" && speakColor != "rgb(131, 176, 154)") {
+        alert("不要跳跃操作啊！请先进行杀手杀人。");
+    }
+    else if(wordsColor != "rgb(131, 176, 154)" && speakColor != "rgb(131, 176, 154)"){
+        alert("不要跳跃操作啊！请先进行亡灵发表遗言。")
+    }
+    else if(speakColor != "rgb(131, 176, 154)"){
+        alert("不要跳跃操作啊！请先进行玩家依次发言。");
+    }
+    else{
         $(this).css("background-color","#83b09a");
         $(this).siblings("i").css("border-color","transparent #83b09a transparent transparent");
         location.href = "vote.html";
-    }
-    else{
-        alert("不要跳跃操作啊！请先进行玩家依次发言。");
     }
 });
 

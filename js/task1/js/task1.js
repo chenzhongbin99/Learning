@@ -39,7 +39,7 @@ function startFlash() {
 }
 btnStart.onclick=function () {
     startFlash();
-}
+};
 
 //结束闪
 function endFlash() {
@@ -50,5 +50,5 @@ function endFlash() {
 }
 btnEnd.onclick=function () {
     endFlash();
-}
+};
 

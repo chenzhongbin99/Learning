@@ -8,18 +8,13 @@ body  {
 	background-size:100%;
 }
 h1  {
-	font-size: 50px;
+	padding-top: 50px;
 	color: #fff;
+	font-size: 50px;
 }
-.task  {
-	width: 100px;
-}
-.task a  {
+a  {
 	color: #00f;
 }
-.task a:hover  {
+a:hover  {
 	color: #f00;
-}
-.title  {
-	padding-top: 50px;
 }
