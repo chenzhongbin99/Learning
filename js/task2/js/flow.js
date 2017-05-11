@@ -29,6 +29,7 @@ for(var j=1; j<=dates; j++){
     for(var l=0; l<state.length; l++){
         if(state[l].deadDay == j && state[l].life == "voted"){
             $(".detail").eq(j-1).append('<p>白天：'+state[l].num+'号被投票投死，真实身份是'+state[l].role+'</p>');
+            //投票按钮下的信息
             $(".message2").last(j).text('白天：'+state[l].num+'号被投票投死，真实身份是'+state[l].role);
         }
     }

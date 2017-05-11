@@ -23,7 +23,7 @@ for(var j=0; j<state.length; j++){
 var voteNum = null;
 //投票，role变色
 $(".wrap").click(function () {
-    //一次一直能杀一个玩家
+    //一次一直能投死一个玩家
     for(var n=0; n<state.length; n++){
         if(state[n].life == "alive"){
             $(".role").eq(n).css("background-color","");
@@ -32,6 +32,7 @@ $(".wrap").click(function () {
     //已死的玩家不能再次选中
     if(state[$(this).index()].life != "alive"){
         alert("玩家已死，有事请烧纸！");
+        window.location.reload();
     }
     //被投死的玩家变色
     else {
@@ -53,15 +54,12 @@ $("footer botton").click(function () {
         //改变投死的玩家
         state[voteNum].life = "voted";
         state[voteNum].deadDay = dates;
-        console.log(state[voteNum]);
         //访问为0
         visit = 0;
         //传送数据
         sState = JSON.stringify(state);
         sessionStorage.state = sState;
         sessionStorage.visit = visit;
-        console.log(sState);
-        console.log(sessionStorage.visit);
         //把存活的杀手和平民存入两个数组
         for(var k=0; k<state.length; k++){
             if(state[k].role == "杀手" && state[k].life == "alive"){

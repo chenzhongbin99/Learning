@@ -1,103 +1,65 @@
-/**
- * Created by ChrisChen on 2017/4/25.
- */
-var setRole = document.getElementById("set-role");//设置按钮
-var setDetails = document.getElementById("set-details");//玩家角色
-var roleDetails = document.getElementById("role-details");//具体内容
-var playersNum = document.getElementById("playersNum");//输入框值
-var goDeal = document.getElementById("deal");//翻牌按钮
-var killer = [];//杀手
-var civilian = [];//平民
-var total = [];//数组
+var killer = [];
+var civilian = [];
+var total = [];
 var thePlayers;
 var dates = 1;
+console.log(total);
 
 //玩家配比
-function setPlayers() {
-    total.length = playersNum.value;
-    console.log(total.length);
-    setDetails.innerHTML = "";
+$(".set").click(function () {
+    //清空显示内容
+    $(".list").html("");
+   //获取玩家人数
+    total.length = parseInt($("#playersNum").val());
+    console.log(total);
     //判断杀手人数
-    if(playersNum.value == 8){
+    if(total.length == 8){
         killer.length = 1;
-        console.log(killer.length);
     }
-    else {
+    else{
         killer.length = parseInt(total.length/4);
     }
-    //把killer传入数组
-    for(var k=0; k<killer.length; k++){
-        killer[k] = "杀手";
+    //选出杀手
+    for(var i=0; i<killer.length; i++){
+        killer[i] = "杀手";
     }
-    console.log(typeof(killer.length));
-    console.log(total.length);
-    //把civilian传入数组
-    for(var c=0; c<((total.length)-(killer.length)); c++){
-        civilian[c] = "平民";
+    //选出平民
+    for(var j=0; j<(total.length-killer.length); j++){
+        civilian[j] = "平民";
     }
-    console.log(total.length);
-    //把两者传入数组
+    //把两个角色传入数组
     total = killer.concat(civilian);
-    console.log(total);
-    //乱序
-    function randomsort(a, b) {
-        return Math.random()>.5? -1:1;
-    }
-    total.sort(randomsort);
-    //再次赋值
-    total.length = playersNum.value;
-    //改变玩家角色
-    roleDetails.innerHTML = "";
+    //随机排序
+    total.sort(function () {
+        return .5 - Math.random();
+    });
+    //再赋值
+    total.length = parseInt($("#playersNum").val());
+    //再清空
+    $(".list").html = "";
 
     //玩家角色
-    for(var i=0; i<total.length; i++){
-        if(total[i]=="杀手"){
-            console.log(total[i]+"第x号:"+(i+1));
-            var newLi = document.createElement("li");
-            newLi.className = "pant";
-            //小方块颜色
-            var pantColor = document.createElement("span");
-            pantColor.setAttribute("class","orange");
-            //玩家角色 文字
-            var pantText = document.createElement("span");
-            pantText.className = "pant-text";
-            pantText.innerText = (i+1) + "号-" + total[i];
-            newLi.appendChild(pantText);
-            newLi.insertBefore(pantColor, pantText);
-            roleDetails.appendChild(newLi);
+    for(var k=0; k<total.length; k++){
+        if(total[k] == "杀手") {
+            $(".list").append('<li class="pant"><span class="orange"></span><span class="pant-name">' + (k + 1) + '号-' + total[k] + '</span></li>');
         }
-        else if(total[i]=="平民"){
-            console.log(total[i]+"第x号:"+(i+1));
-            var newLi = document.createElement("li");
-            newLi.className = "pant";
-            //小方块颜色
-            var pantColor = document.createElement("span");
-            pantColor.setAttribute("class","blue");
-            //玩家角色 文字
-            var pantText = document.createElement("span");
-            pantText.setAttribute("class","pant-text");
-            pantText.innerText = (i+1) + "号-" + total[i];
-            newLi.appendChild(pantText);
-            newLi.insertBefore(pantColor, pantText);
-            roleDetails.appendChild(newLi);
+        if(total[k] == "平民"){
+            $(".list").append('<li class="pant"><span class="blue"></span><span class="pant-name">' + (k + 1) + '号-' + total[k] + '</span></li>');
         }
     }
-    setDetails.innerHTML = roleDetails.innerHTML;
     //转字符串 数据储存
     thePlayers = JSON.stringify(total);
     sessionStorage.total = thePlayers;
     dates = JSON.stringify(dates);
     sessionStorage.dates = dates;
-}
-setRole.addEventListener("click", setPlayers);
+});
 
 //翻牌按钮
-function heal() {
-    if(total.length!==0){
-        location.href="task2-3.html";
-    }
-    else {
+$(".next").click(function () {
+    if(total.length == 0){
         alert("请先进行玩家配比！");
     }
-}
-goDeal.addEventListener("click", heal);
+    else {
+        location.href = "task2-3.html";
+    }
+});

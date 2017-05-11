@@ -25,7 +25,7 @@ for(var j=0; j<state.length; j++){
 $(".wrap").click(function () {
     //获取玩家角色
     var roleName = $($(this).find(".role")).text();
-    //一次一直能杀一个玩家
+    //一次只能杀一个玩家
     for(var n=0; n<state.length; n++){
         if(state[n].life == "alive"){
             $(".role").eq(n).css("background-color","");
@@ -34,10 +34,12 @@ $(".wrap").click(function () {
     //杀手不能杀杀手
     if(roleName == "杀手"){
         alert("自己人别动手啊！");
+        window.location.reload();
     }
     //已死的玩家不能再次选中
     else if(state[$(this).index()].life != "alive"){
         alert("玩家已死，有事请烧纸！");
+        window.location.reload();
     }
     //被杀的变色
     else {
@@ -49,13 +51,13 @@ $(".wrap").click(function () {
     }
 });
 
+
 //按钮判断
 $("footer botton").click(function () {
     if(killerNum != null){
         //改变被杀的玩家
         state[killerNum].life = "killed";
         state[killerNum].deadDay = dates;
-        console.log(state[killerNum]);
         //传送数据
         sState = JSON.stringify(state);
         sessionStorage.state = sState;

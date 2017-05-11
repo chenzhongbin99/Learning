@@ -11,8 +11,7 @@ var dates = 1;
 var visit = 0;
 
 for(var i=0; i<total.length; i++){
-    var gamePlayers = '<div class="box"><div class="role">'+total[i]+'</div><div class="number">'+(i+1)+'号</div></div>';
-    $(".wrap").append(gamePlayers);
+    $(".wrap").append('<div class="box"><div class="role">'+total[i]+'</div><div class="number">'+(i+1)+'号</div></div>');
     //赋值玩家存活状态，天数
     state[i] = {};
     state[i].num = i+1;
@@ -27,6 +26,5 @@ $("footer botton").click(function () {
     dates = JSON.stringify(dates);
     sessionStorage.dates = dates;
     sessionStorage.visit = visit;
-    console.log("visit:"+sessionStorage.visit);
     location.href = "game_flow.html";
 });

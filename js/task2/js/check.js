@@ -21,8 +21,6 @@ $(document).ready(function () {
 });
 //按钮
 $("#check").click(function () {
-    console.log("clickRate"+clickRate);
-    console.log("countPlayers"+countPlayers);
     if(countPlayers < total.length+1){
         $(".role-text").hide();
         $(".role-num").text(countPlayers);

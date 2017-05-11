@@ -62,7 +62,7 @@ main {
 }
 .details {
     height: 19.5rem;
-    padding: 0.8rem 0 0 2.5rem;
+    padding: 0.8rem 0 0 1.5rem;
     border-bottom: 1px solid #d9d9d9;
     overflow-y: auto;
     text-align: left;
@@ -73,17 +73,21 @@ main {
     margin-top: 20px;
     text-align: left;
 }
+.pant-name {
+    color: #a1a1a1;
+    font-size: 1.3rem;
+}
 .blue, .orange {
     display: inline-block;
     width: 10px;
     height: 10px;
-    margin: 0 15px 7px 0;
+    margin: 0 10px 6px;
 }
 .blue {
     background: #29bde0;
 }
 .orange {
-    background: orange;
+    background: #ee9f1b;
 }
 .pant-text {
     color: #a1a1a1;
@@ -167,6 +171,7 @@ footer {
 }
 .next {
 	display: block;
+    width: 94%;
 	padding: 1.2rem;
 	margin: 1.2rem 0.9rem;
 	background: #fbb435;
