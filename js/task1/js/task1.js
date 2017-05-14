@@ -19,10 +19,10 @@ function flash() {
         flash();
     }
     //随机3个颜色
-
     for(var j=0;j<3;j++){
         color[j]="#"+("00000"+(Math.random()*0x1000000<<0).toString(16)).substr(-6);
     }
+    console.log(color[j]);
 }
 
 //开始闪

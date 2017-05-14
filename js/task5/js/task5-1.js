@@ -1,18 +1,33 @@
 /**
  * Created by ROMANTIC on 2017/5/8.
  */
-var passwordNum = [];
-$(".register").click(function () {
-    //账号
-    var userName = $($(this).find(".user")).value;
-    if(userName != "user"){
-        $(".message").text("无此用户请重新输入");
-    }
-    //密码
-    else if(passwordNum.length <= 6){
-        $(".message").text("密码不能小于6位数");
-    }
-    else{
-        $(".message").text("");
-    }
+angular.module("myApp",[])
+    .controller("registerController", function ($scope) {
+        $scope.userdata = {};
+        $scope.submitForm = function () {}
+    });
+$(document).ready(function () {
+    $(".register").click(function () {
+        console.log($(".username").val());
+        console.log($(".password").val());
+        $.ajax({
+            type: "POST",
+            url: "a/login",
+            data: {
+                name: $(".username").val(),
+                pwd: $(".password").val()
+            },
+            success: function (value) {
+                var num = JSON.parse(value);
+                if(num.code !== 0){
+                    $(".error").text("");
+                    $(".error").text(num.data.message);
+                    alert("登录失败，请检查账户密码是否正确！")
+                }
+                else {
+                    alert("登录成功！")
+                }
+            }
+        })
+    })
 });
