@@ -12,7 +12,7 @@ $(document).ready(function () {
         console.log($(".password").val());
         $.ajax({
             type: "POST",
-            url: "a/login",
+            url: "/carrots-admin-ajax/a/login",
             data: {
                 name: $(".username").val(),
                 pwd: $(".password").val()
@@ -25,7 +25,8 @@ $(document).ready(function () {
                     alert("登录失败，请检查账户密码是否正确！")
                 }
                 else {
-                    alert("登录成功！")
+                    alert("登录成功！");
+                    location.href = "";
                 }
             }
         })
